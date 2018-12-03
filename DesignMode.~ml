@@ -10,7 +10,7 @@
 <XPD:BODY>
 <XPD:OBJ name="DocumentElement" type="UMLProject" guid="i1b83W9wH0qtAFwkwIuBUgAA">
 <XPD:ATTR name="Title" type="string">Untitled</XPD:ATTR>
-<XPD:ATTR name="#OwnedElements" type="integer">7</XPD:ATTR>
+<XPD:ATTR name="#OwnedElements" type="integer">6</XPD:ATTR>
 <XPD:OBJ name="OwnedElements[0]" type="UMLModel" guid="jsbkDfDBzU2hIDsiq8DzkwAA">
 <XPD:ATTR name="Name" type="string">Strategy&amp;SimpleFactory</XPD:ATTR>
 <XPD:REF name="Namespace">i1b83W9wH0qtAFwkwIuBUgAA</XPD:REF>
@@ -6012,18 +6012,6 @@
 <XPD:REF name="Views[1]">oCQfXF/5PUWSFoEHnphlhAAA</XPD:REF>
 <XPD:REF name="Views[2]">FsNMiKb68keJciDCFIQO9QAA</XPD:REF>
 <XPD:REF name="Views[3]">2YEOq+wOOkmxTMC2gtZKqQAA</XPD:REF>
-</XPD:OBJ>
-</XPD:OBJ>
-<XPD:OBJ name="OwnedElements[6]" type="UMLModel" guid="1HfhTIG55UGpnZKImjINLAAA">
-<XPD:ATTR name="Name" type="string">Decorator</XPD:ATTR>
-<XPD:REF name="Namespace">i1b83W9wH0qtAFwkwIuBUgAA</XPD:REF>
-<XPD:ATTR name="#OwnedDiagrams" type="integer">1</XPD:ATTR>
-<XPD:OBJ name="OwnedDiagrams[0]" type="UMLClassDiagram" guid="cY9cU1FXv0SyelQWD4anDQAA">
-<XPD:ATTR name="Name" type="string">Decorator</XPD:ATTR>
-<XPD:REF name="DiagramOwner">1HfhTIG55UGpnZKImjINLAAA</XPD:REF>
-<XPD:OBJ name="DiagramView" type="UMLClassDiagramView" guid="R8ftaMWowUWzHTXQP57sfQAA">
-<XPD:REF name="Diagram">cY9cU1FXv0SyelQWD4anDQAA</XPD:REF>
-</XPD:OBJ>
 </XPD:OBJ>
 </XPD:OBJ>
 </XPD:OBJ>
